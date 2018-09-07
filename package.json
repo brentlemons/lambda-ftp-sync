@@ -1,0 +1,24 @@
+{
+  "name": "lambda-ftp-sync",
+  "version": "1.0.0",
+  "description": "Project to explore aws lambda/serverless",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brentlemons/lambda-ftp-sync.git"
+  },
+  "keywords": [
+    "lambda",
+    "serverless",
+    "sam"
+  ],
+  "author": "Brent Lemons",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brentlemons/lambda-ftp-sync/issues"
+  },
+  "homepage": "https://github.com/brentlemons/lambda-ftp-sync#readme"
+}
